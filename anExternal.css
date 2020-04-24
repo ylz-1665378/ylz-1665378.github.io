@@ -1,0 +1,53 @@
+body{
+
+}
+
+#p1 {
+    font-family: "Arial";
+}
+    
+#p2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Newbie3 {
+    font-family: "Arial";
+    border: dashed 2px black;
+}
+
+#centered {
+    background-image:url('dark_wood.png');
+    width:600px;
+    height:600px;
+}
+
+#centeredText {
+    color: white;
+    text-align:center;
+    line-height:600px;
+}
+
+#photo {
+    margin: 20px;
+    position:relative;
+}
+
+#dottedText {
+    border: dotted 2px black;
+}
+
+#floatElement {
+    border: dotted 2px black;
+    width:200px;
+    float: right;
+    padding: bottom 10px;
+    background-color: red;
+}
+
+#roundBorderCorners {
+    border-radius:  25px;
+    background:  yellow;
+    padding: 20px;
+    width:150px;
+    height: 200px;
+}
